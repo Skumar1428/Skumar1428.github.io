@@ -5,10 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://Skumar1428.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://Skumar1428.github.io">About Me</a>
   </p>
 </p>
 
@@ -21,7 +21,7 @@
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://Skumar1428.github.io/home)
 
 ## Table of Contents
 
